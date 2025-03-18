@@ -1,6 +1,0 @@
-name: Totem
-type: shield
-features:
-  - studio
-url: https://github.com/nicell/totem
-requires: [seeeduino_xiao_ble]
